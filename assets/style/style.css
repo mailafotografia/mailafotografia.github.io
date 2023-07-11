@@ -25,6 +25,13 @@ html, body {
 }
 .sidebar div {
   text-align: center;
+  height: auto;
+}
+.sidebar div b{
+  font-size: 30px;
+}
+.sidebar div span{
+  margin-top: 50px;
 }
 
 .content {
